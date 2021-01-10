@@ -10,7 +10,6 @@ int main(){
 	soma(20,30);
 	soma();
 	
-
 	return 0;
 
 }

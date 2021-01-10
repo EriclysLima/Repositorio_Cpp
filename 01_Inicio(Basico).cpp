@@ -1,7 +1,8 @@
 #include <iostream>
+
 using namespace std;
-int main()
-{
-	cout << "Escreva na tela";
+
+int main(){
+
 	return 0;
 }

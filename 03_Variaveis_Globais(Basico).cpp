@@ -8,6 +8,5 @@ int main(){
 	
 	int n3,n4; // Variaveis Locais
 	
-	
 	return 0;
 }
