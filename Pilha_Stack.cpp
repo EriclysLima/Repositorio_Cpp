@@ -18,10 +18,12 @@ int main(){
 	
 	cartas.pop();
 	cartas.pop();
+	cartas.pop();
 	
 	cout << "Nova carta do topo: "<< cartas.top() << "\n";
- 	
 
+	system("pause");
+ 	
 	return 0;
 
 }

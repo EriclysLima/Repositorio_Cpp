@@ -12,7 +12,7 @@ int main(){
     cartas.push("Rei de Ouros");
     cartas.push("Rei de Paus");
 
-    if (cartas.empty()){
+    /* if (cartas.empty()){
         cout << "Pilha vazia\n\n";
     }
     else{
@@ -21,16 +21,17 @@ int main(){
 
     while(!cartas.empty()){
         cartas.pop();
-    }
+    } */
 
     cout << "Tamanho da pilha: " << cartas.size() << "\n";
 
     cout << "Cartas do topo: " << cartas.top() << "\n";
 
     cartas.pop();
-    cartas.pop();
 
     cout << "Nova carta do topo: " << cartas.top() << "\n";
+
+    system("pause");
 
     return 0;
 
