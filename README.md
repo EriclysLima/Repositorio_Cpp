@@ -1,2 +1,2 @@
-# Codes-Basic_And_Advanced
- Codigos em C++
+<h1 align="center">Codigos em C++</h1>
+<p align="center">Criados para estudo da linguagem </p>
